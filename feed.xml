@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>磁贴のblog</title>
+    <description>这里是被Win11吃掉的磁贴的个人博客，记录技术与生活 | 与你一起发现更大的世界</description>
+    <link>https://131566.xyz/</link>
+    <atom:link href="https://131566.xyz/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 08 Sep 2026 15:21:43 +0000</pubDate>
+    <lastBuildDate>Tue, 08 Sep 2026 15:21:43 +0000</lastBuildDate>
+    <generator>Jekyll v4.4.1</generator>
+    
+  </channel>
+</rss>
